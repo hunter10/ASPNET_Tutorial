@@ -1,0 +1,9 @@
+C:\ASP.NET\DevASPNET\DevASPNET\bin\DevASPNET.dll.config
+C:\ASP.NET\DevASPNET\DevASPNET\bin\DevASPNET.dll
+C:\ASP.NET\DevASPNET\DevASPNET\bin\DevASPNET.pdb
+C:\ASP.NET\DevASPNET\DevASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ASP.NET\DevASPNET\DevASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ASP.NET\DevASPNET\DevASPNET\obj\Debug\DevASPNET.csprojResolveAssemblyReference.cache
+C:\ASP.NET\DevASPNET\DevASPNET\obj\Debug\DevASPNET.csproj.CoreCompileInputs.cache
+C:\ASP.NET\DevASPNET\DevASPNET\obj\Debug\DevASPNET.dll
+C:\ASP.NET\DevASPNET\DevASPNET\obj\Debug\DevASPNET.pdb
